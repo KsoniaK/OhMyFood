@@ -1,13 +1,6 @@
-<div align="center">
-  <div style="background-color:#fff;
-              padding:20px;
-              display:inline-block;
-              border-radius:12px;">
-    <img src="assets/img/logo/ohmyfood@2x.svg"
-         alt="Logo OhMyFood"
-         width="100">
-  </div>
-</div>
+<p align="center">
+  <img src="assets/img/louis-hansel-shotsoflouis-qNBGVyOCY8Q-unsplash.jpg" alt="Logo Oh my food" width="100">
+</p>
 
 # OhMyFood : Dynamiser une page web avec des animations CSS
 
