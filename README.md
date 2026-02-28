@@ -1,6 +1,13 @@
-<p align="center" style="background-color:#fff; padding:20px;">
-  <img src="assets/img/logo/ohmyfood@2x.svg" alt="Logo Réservia" width="100">
-</p>
+<div align="center">
+  <div style="background-color:#fff;
+              padding:20px;
+              display:inline-block;
+              border-radius:12px;">
+    <img src="assets/img/logo/ohmyfood@2x.svg"
+         alt="Logo OhMyFood"
+         width="100">
+  </div>
+</div>
 
 # OhMyFood : Dynamiser une page web avec des animations CSS
 
