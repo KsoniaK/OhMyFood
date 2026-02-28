@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/img/louis-hansel-shotsoflouis-qNBGVyOCY8Q-unsplash.jpg" alt="Logo Oh my food" width="100">
+  <img src="assets/img/restaurants/louis-hansel-shotsoflouis-qNBGVyOCY8Q-unsplash.jpg" alt="Logo Oh my food" width="100">
 </p>
 
 # OhMyFood : Dynamiser une page web avec des animations CSS
