@@ -1,3 +1,7 @@
+<p align="center" style="background-color:#f5f5f5; padding:20px;">
+  <img src="assets/img/logo/ohmyfood@2x.svg" alt="Logo Réservia" width="100">
+</p>
+
 # OhMyFood : Dynamiser une page web avec des animations CSS
 
 OhMyFood est une entreprise de commande de repas en ligne qui propose :
