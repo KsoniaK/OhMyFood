@@ -1,5 +1,19 @@
-<h1>Projet OhMyFood : Dynamiser une page web avec des animations CSS</h1>
+# OhMyFood : Dynamiser une page web avec des animations CSS
 
-<strong>PDF Présentation du projet : https://github.com/KsoniaK/SoniaKechit_3_29062021/files/7072735/P3_03_Presentation.pdf</strong>
+OhMyFood est une entreprise de commande de repas en ligne qui propose :
+- De composer son menu,
+- La préparation des menus dès validation de la commande,
+- Un temps d'attente réduit au restaurant
 
-<strong>Lien GitHub Pages du projet :  https://ksoniak.github.io/SoniaKechit_3_29062021/</strong>
+Nous souhaitons proposer à nos clients les menus de restaurants gastronomiques.
+Développé à New York dans un premier temps, nous souhaitons désormais élargir notre concept à la capitale de la gastronomie : Paris.
+Nous ciblons les classes moyennes et supérieures connectées et souvent pressées à la recherche de produits de qualité.
+
+## Technologies
+
+- HTML
+- SASS
+
+## GitHub Pages
+
+https://ksoniak.github.io/OhMyFood/
